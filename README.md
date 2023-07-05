@@ -1,13 +1,17 @@
-# budget-tracker
+# Budget Tracking and Analysis
 
 The project consists of two parts: a budget tracking script and a budget analysis module. The script allows users to input their monthly expenses and saves them to a CSV file for tracking purposes. The module provides functions to analyze the budget, calculate total spending, savings, expense percentages, and generate a budget report with income, expenses, and leftover money. It also includes visualizations of spending trends and income/savings breakdown.
 
-## Usage
+## Budget Tracking Script:
 
-### Budget Tracking Script:
+The budget tracking script allows users to input their expenses for different categories each month and automatically updates them to a CSV file (budget.csv) for tracking purposes.
 
-The budget tracking script allows users to input their expenses for different categories each month and saves them to a CSV file (budget.csv) for tracking purposes.
+![input](figure/input.png)
 
-### Budget Analysis Module:
+![csv](figure/csv_update.png)
 
-The budget analysis module provides various functions to analyze the budget and generate reports.
+## Budget Analysis Module:
+
+The budget analysis module analyzes the budget and generates reports.
+
+![output](figure/output_figure.png)
